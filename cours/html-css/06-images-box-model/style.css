@@ -76,6 +76,8 @@ figure {
   padding: 8px;
   margin: 16px 0;
   width: 500px;
+  background-color: rgb(73, 182, 209);
+  box-shadow: 10px 5px 5px rgb(48, 132, 165);
 }
 
 img {
@@ -86,3 +88,4 @@ figcaption {
   font-style: italic;
   margin-top: 4px;
 }
+
