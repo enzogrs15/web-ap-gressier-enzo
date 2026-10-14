@@ -112,17 +112,21 @@ tbody tr:nth-child(even) {
 input, select, textarea {
   border: 1px solid darkslategray;
   padding: 4px;
+  background-color: rgb(202, 200, 197);
 }
 
 input:focus, select:focus, textarea:focus {
   outline: 2px solid steelblue;
   outline-offset: 1px;
+  background-color: rgb(182, 182, 182);
 }
 
 input:valid {
   border-color: seagreen;
+  background-color: rgb(187, 186, 186);
 }
 
 input:invalid {
   border-color: crimson;
+  background-color: rgb(201, 198, 198);
 }
