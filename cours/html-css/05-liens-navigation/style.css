@@ -71,3 +71,18 @@ nav a:hover {
   text-decoration: underline;
 }
 
+figure {
+  border: 2px solid steelblue;
+  padding: 8px;
+  margin: 16px 0;
+}
+
+img {
+  width: 300px;
+}
+
+figcaption {
+  font-style: italic;
+  margin-top: 4px;
+}
+
